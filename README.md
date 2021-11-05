@@ -1,7 +1,7 @@
 React-JS-PRACTICE-Pogoda
 
 
-Приложение выводит на экран погоду в выбранном городе. Использовался ReactJS.
+Приложение выводит на экран погоду в выбранном городе. Использовался React JS.
 
 
 ССЫЛКА НА ПРИЛОЖЕНИЕ: https://react-js-practice-pogoda.herokuapp.com
